@@ -1,5 +1,3 @@
-import function.arry;
-
 public class BubbleShort {
     public static void main(String[] args) {
         int arr[] = {4,6,1,9,7,5,3,2};
