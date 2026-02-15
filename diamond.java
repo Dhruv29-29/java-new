@@ -14,6 +14,8 @@ public class diamond {
         }
         for (int i = n-1
             
+
+            
             
             
             

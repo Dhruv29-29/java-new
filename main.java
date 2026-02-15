@@ -5,6 +5,8 @@ public class main {
                 System.out.print("*");
             }
             System.out.println();
+
+            
         }
     }
 }

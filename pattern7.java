@@ -11,6 +11,7 @@ public class pattern7 {
                 }else{
                     System.out.print("0 ");
                 }
+            
 
             }
         System.out.println();

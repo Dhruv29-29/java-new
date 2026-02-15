@@ -28,6 +28,8 @@ public class butterfly {
             }
 
 
+            
+
             for(int j = i ;j>=1;j-- ){
                     System.out.print("0 ");
             }
